@@ -1,4 +1,4 @@
-# Push Notifications codelab Gennaro 01
+# Push Notifications codelab Gennaro 02
 
 Code for the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
 
